@@ -197,7 +197,7 @@ header h2 span{
 /* category section */
 .category{
   padding-top: 30px;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 @media (max-width:767px) {
     
@@ -319,8 +319,8 @@ header h2 span{
 }
 @media (max-width:797px){
     .Penel{
-        width: 93%;
-        margin: 10px 19px;
+        width: 94%;
+        margin: 10px 20px;
         margin-top: 23%;
     }
 }
@@ -420,7 +420,7 @@ header h2 span{
     grid-template-columns: repeat(auto-fill, minmax(233px, 1fr));
     margin-left: 7%;
     padding: 79px 2px;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 @media (max-width:797px){
     .icons{
@@ -645,7 +645,7 @@ header h2 span{
 }
 .chairs .card{
     transform-style: preserve-3d;
-    height: 595px;
+    height: 578px;
 }
 .chairs .card .front{
     position: relative;

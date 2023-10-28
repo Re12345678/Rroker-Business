@@ -645,6 +645,7 @@ header h2 span{
 }
 .chairs .card{
     transform-style: preserve-3d;
+    height: 595px;
 }
 .chairs .card .front{
     position: relative;
